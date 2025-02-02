@@ -51,6 +51,7 @@ This "try it first" approach might feel challenging, but it's far more effective
 [Thinking like a Programmer](<./books/Think%20Like%20a%20Programmer%20An%20Introduction%20to%20Creative%20Problem%20Solving%20(V.%20Anton%20Spraul)%20(Z-Library).pdf>) (**optional**)
 
 - Comprehensive guide for developing programmatic thinking
+- The pdf of the book is in the books folder.
 
 ## Recommended Time Management
 
