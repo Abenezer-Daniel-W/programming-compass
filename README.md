@@ -57,7 +57,7 @@ This "try it first" approach might feel challenging, but it's far more effective
 
 Dedicating 30-60 minutes daily to supplementary learning materials alongside your coursework can significantly enhance your development. The required videos would take approximately two and a half weeks to complete at one hour per day. However, your primary focus should remain on your academic coursework.
 
-# How to Get Good at Programming
+# 2. How to Get Good at Programming
 
 Programming is more than just writing code—it’s about turning abstract ideas into concrete, working software. It’s like taking a vague sketch and transforming it into a detailed blueprint.
 
