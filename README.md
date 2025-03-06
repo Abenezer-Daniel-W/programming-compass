@@ -56,3 +56,61 @@ This "try it first" approach might feel challenging, but it's far more effective
 ## Recommended Time Management
 
 Dedicating 30-60 minutes daily to supplementary learning materials alongside your coursework can significantly enhance your development. The required videos would take approximately two and a half weeks to complete at one hour per day. However, your primary focus should remain on your academic coursework.
+
+# How to Get Good at Programming
+
+Programming is more than just writing code—it’s about turning abstract ideas into concrete, working software. It’s like taking a vague sketch and transforming it into a detailed blueprint.
+
+Imagine you need to build an app that manages employee work schedules—tracking who works when and preventing conflicts. To pull this off, you need two things:
+
+- **Strong fundamentals** in programming.
+- **Knowledge of tools and frameworks** that help you build your project faster.
+
+## The Beginner's Journey
+
+Let’s say you only know Python and have created a few simple terminal applications. Now, you’re ready to take on a web app project.
+
+1. **Explore Your Options:**  
+   You search online for “how to build a web application with Python” and discover frameworks like Flask, Django, and Streamlit. You might check out a blog from a reputable site like Real Python or watch an introductory Flask tutorial on YouTube.
+
+2. **The Transition:**  
+   This is where you move from a beginner who builds basic terminal apps to someone who can create real software. After one tutorial, it’s easy to feel the urge to watch more or read additional articles—especially if you’re scared of making mistakes. The fear of the unknown, uncertainty, and self-doubt can push you into a cycle of endless learning.
+
+## Why More Tutorials Aren’t Always Better
+
+Here’s the truth: real learning happens when you put your knowledge to the test. Think about it—watching six chemistry lectures won’t help you as much as watching one lecture and then solving problems on your own.
+
+In programming, the exercise isn’t answering questions in a textbook; it’s building a prototype of your project. There’s even a term for beginners who watch endless tutorials without ever coding on their own: **tutorial hell**. And trust me, it’s a trap you want to avoid.
+
+## The Best Way to Learn
+
+I once watched a [great video](https://youtu.be/vFjXKOXdgGo?si=xc38z_RJUM8shZor) where a game developer explained that you only need to learn enough to start, then dive in and solve problems as they arise. Here’s a simple plan to follow:
+
+- **Watch One Video or Read One Article:**  
+  Get just enough background to understand the basics.
+
+- **Start Building Your Project:**  
+  Begin coding your app right away, even if it’s not perfect.
+
+- **Google Your Problems:**  
+  When you hit a roadblock—say, connecting your database to your Flask app—don’t go back to more tutorials. Instead, search for “how to connect Flask backend to database” and implement the solution you find.
+
+Tutorials are just the starting point. They’re meant to give you a hint of what to search for when you’re stuck. True progress comes from tackling challenges head-on and learning by doing.
+
+### A Note on AI
+
+Avoid using AI while you're learning—it's a trap that can prevent deep understanding. Unless your livelihood depends on your output, resist the temptation. Relying too much on AI can make you a passive learner rather than an active problem solver.
+
+## How to Become a Really Great Programmer
+
+Assuming you've taken the advice above to heart, you'll likely learn more technologies and build plenty of side projects. But if you truly want to excel as a programmer, make sure you pay close attention in your core computer science classes. There's a reason these courses are considered essential—they provide the backbone for understanding complex software systems. When you're building something that needs to be efficient and reliable, you'll rely on these fundamentals.
+
+In addition to mastering core CS topics like algorithms, operating systems, and networking, consider deepening your skills by:
+
+- **Expanding Your Language Proficiency:**  
+  Enhance your expertise with the language you currently use, or explore new technologies. For example, reading _Fluent Python_ can help you grasp all the syntax and features of Python.
+
+- **Learning Software Design:**  
+  Read books like _The Philosophy of Software Design_ to better understand how to structure large projects and develop maintainable programs.
+
+By focusing on both the fundamentals and continuous learning, you'll significantly broaden the range of projects you can tackle and become a truly great programmer.
