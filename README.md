@@ -114,3 +114,29 @@ In addition to mastering core CS topics like algorithms, operating systems, and 
   Read books like _The Philosophy of Software Design_ to better understand how to structure large projects and develop maintainable programs.
 
 By focusing on both the fundamentals and continuous learning, you'll significantly broaden the range of projects you can tackle and become a truly great programmer.
+
+## What to Do When You’re Unsure About Projects
+
+If you're not sure what project to build, don't worry—it’s a common challenge. Here are some ideas to kickstart your creativity:
+
+### Build Something You Wish Existed
+
+Think about a tool or service that would make life easier. For example, a friend in Seattle was frustrated that local community centers and shops relied on a shared bulletin board for advertising, renting rooms, and requesting help. So, he built an app to simplify the process.
+
+### Recreate Software You Love
+
+Try making a simplified version of an app you already enjoy using. Creating a basic Instagram or Reddit clone can teach you a lot about design, functionality, and user experience.
+
+### Explore Online Resources
+
+If you're still stuck, browse GitHub for repositories filled with project ideas. These collections can provide a wealth of inspiration.
+
+### Jump into a Hackathon
+
+Hackathons are a great way to spark creativity. With their strict time limits, they force you to build something quickly and focus on finishing a project—often leading to innovative solutions.
+
+### Just Start Building!
+
+Remember, the best ideas often emerge when you take action. Begin with a small project, learn from the process, and let your ideas evolve as you build.
+
+Plus AI is good at generating project ideas.
